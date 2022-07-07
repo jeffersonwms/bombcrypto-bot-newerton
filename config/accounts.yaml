@@ -3,8 +3,8 @@
 
 1: {
     mode: "treasure_hunt", # 'treasure_hunt' or 'amazon_survival'
-    username: "",
-    password: "",
+    username: "jeffbomb1",
+    password: "r1v3n123",
     house: false,
     rarity: [],
   }

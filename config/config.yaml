@@ -1,15 +1,15 @@
 app:
   theme: "default"
-  verify_version: true
+  verify_version: false
   emoji: false
   terminal_colorful: false
   run_time_app: 1
   monitor_to_use: 1
   captcha: false
   speed: "fast"
-  authenticate: false
+  authenticate: true
   multi_account:
-    enable: false
+    enable: true
     window_title: "bombcrypto"
     window_fullscreen: false
 
